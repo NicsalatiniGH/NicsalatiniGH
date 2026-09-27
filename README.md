@@ -40,4 +40,14 @@
 
 ### 📁 [Jogo-Lógica](https://github.com/RedPaker/Jogo-Logica)
 
-### Jogo educativo sobre um computador que precisa salvar seu mundo de um vírus maligno. Projeto do primeiro ano  do curso de Desenvolvimento de sistemas no IFSP - Campus São Paulo, coordenado pela professora Claudia Miyuki Werhmuller
+##### Jogo educativo sobre um computador que precisa salvar seu mundo de um vírus maligno. Projeto do primeiro ano  do curso de Desenvolvimento de sistemas no IFSP - Campus São Paulo, coordenado pela professora Claudia Miyuki Werhmuller
+
+<br>
+
+# Estatísticas
+
+<br>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=NicsalatiniGH&theme=dark&border_radius=5&locale=pt_BR)](https://git.io/streak-stats)
+
+
