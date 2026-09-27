@@ -1,4 +1,4 @@
-<img src= "https://capsule-render.vercel.app/api?type=pulse&height=500&color=gradient&section=header&reversal=false&text=Nicolas+Salatini&textBg=false&fontSize=75&fontAlign=50&fontAlignY=50&rotate=0&stroke=cdef&strokeWidth=0&desc=Bem+vindo+ao+meu+perfil%21&descSize=25&descAlign=50&descAlignY=60" />
+<img src= "https://capsule-render.vercel.app/api?type=pulse&height=500&color=gradient&section=header&reversal=false&text=Nicolas+Salatini&textBg=false&fontSize=75&fontAlign=50&fontAlignY=50&rotate=0&stroke=cdef&strokeWidth=0&desc=Dev+em+desenvolvimento&descSize=25&descAlign=50&descAlignY=60" />
 
 
 
@@ -33,4 +33,11 @@
 
 <br>
 
+## Projetos
 
+<div align="center">
+<img width="500" height="300" alt="ilustração" src="https://raw.githubusercontent.com/RedPaker/Jogo-Logica/refs/heads/main/Entregas/png/Scenary_0003.png"/>
+
+### 📁 [Jogo-Lógica](https://github.com/RedPaker/Jogo-Logica)
+
+### Jogo educativo sobre um computador que precisa salvar seu mundo de um vírus maligno. Projeto do primeiro ano  do curso de Desenvolvimento de sistemas no IFSP - Campus São Paulo, coordenado pela professora Claudia Miyuki Werhmuller
