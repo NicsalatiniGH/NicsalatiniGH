@@ -1,6 +1,36 @@
 <img src= "https://capsule-render.vercel.app/api?type=pulse&height=500&color=gradient&section=header&reversal=false&text=Nicolas+Salatini&textBg=false&fontSize=75&fontAlign=50&fontAlignY=50&rotate=0&stroke=cdef&strokeWidth=0&desc=Bem+vindo+ao+meu+perfil%21&descSize=25&descAlign=50&descAlignY=60" />
 
+
+
 # Bem vindo ao meu perfil!
 
+
+### Sobre mim
+
+💻 Desenvolvedor em aprendizado. Tenho preferência por Backend e sempre procuro aprender coisas novas!
+
+<br>
+
+**Competências**
+
+<!-- (Aqui você pode adicionar tecnologias que aprendeu no curso, já listamos algumas delas, e outras que já domina)) -->
+
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+<!-- (Já colocar tecnologias do On Demand que aprende no curso)) -->
+
+### Eu estou estudando... 
+<!-- (Aqui você pode adicionar tecnologias que está estudando, inclusive para aumentar essa lista você listamos algumas das tecnologias ensinadas na nossa [Assinatura On Demand](https://cubos.academy/cubosondemand)) -->
+
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+<br>
 
 
